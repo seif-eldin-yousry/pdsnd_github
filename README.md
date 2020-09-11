@@ -11,5 +11,7 @@ the project analyse data using python programming language
 chicago/new_york_city/washington
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging
+https://docs.github.com/en/github/using-git/getting-changes-from-a-remote-repository
+https://medium.com/@steveamaza/how-to-write-a-proper-git-commit-message-e028865e5791
 
