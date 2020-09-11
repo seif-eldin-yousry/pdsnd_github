@@ -1,0 +1,2 @@
+https://www.programiz.com/python-programming/global-keyword#:~:text=In%20Python%2C%20global%20keyword%20allows,variable%20in%20a%20local%20context.
+https://stackoverflow.com/questions/23294658/asking-the-user-for-input-until-they-give-a-valid-response
