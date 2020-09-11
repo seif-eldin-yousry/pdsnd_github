@@ -5,7 +5,7 @@
 new-project-title
 
 ### Description
-Describe what your project is about and what it does
+the project analyse data using python programming language
 
 ### Files used
 Include the files used
